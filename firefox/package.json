@@ -1,0 +1,12 @@
+{
+  "title": "File Renamer",
+  "name": "filerenamer",
+  "version": "0.2.3",
+  "description": "Renames the files downloaded from Course Page of VIT Academics",
+  "main": "index.js",
+  "author": "Lalit Umbarkar",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT"
+}

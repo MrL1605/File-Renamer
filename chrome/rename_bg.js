@@ -19,6 +19,8 @@ chrome.downloads.onDeterminingFilename.addListener(function(item, suggest) {
     
 });
 
+//sample download file - https://academics.vit.ac.in/faculty/Uploads/FALLSEM2015-16_CP0622_10-Jul-2015_RM01_UNIT-I.ppt
+
 
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
