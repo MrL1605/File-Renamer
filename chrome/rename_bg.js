@@ -2,7 +2,7 @@
 
 chrome.downloads.onDeterminingFilename.addListener(function(item, suggest) {
   
-  var regex = /(FALL|WIN|SUM){1}SEM[0-9]{4}-[0-9]{2}_CP[0-9]{4}.*_[A-Z]{2}[0-9]{2}_/;
+  var regex = /(FALL|WIN|SUM){1}SEM[0-9]{4}-[0-9]{2}_CP[0-9]{4}.*_[A-Z]{2-4}[0-9]{2}_/;
   var text = item.filename; 
   var label;
   
