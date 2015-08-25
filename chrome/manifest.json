@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "File Renamer",
   "description": "Renames the files downloaded from Course Page of VIT Academics",
-  "version": "0.2.3",
+  "version": "0.3.7",
   "minimum_chrome_version": "26.0.1428",
 
   "background": {
