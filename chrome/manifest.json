@@ -14,7 +14,7 @@
   "permissions": [
     "activeTab",
 	"downloads",
-	"*://academics.vit.ac.in/*"
+	"*://vtop.vit.ac.in/*"
   ]
 }
 
